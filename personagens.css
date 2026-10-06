@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    background-color: #8d5525;
+    height: 200px;
+    }
+
+    a {
+        text-decoration: 500px;
+        color: white;
+        font-size: 20px;
+        font-family: "Special Elite", system-ui;  
+        font-weight: 400px;
+        margin: 80PX;
+        font-style: normal;
+        padding: 5px;
+        background-color: rgb(0, 0, 0);
+        border-radius: 30px; 
+        
+    
+    }
+
+    .card{
+
+        text-align: center;
+        width: 400px;
+        height: 427px;
+        background-color: #feb606;
+        margin: 15px;
+        display: inline-block;
+        color: rgb(0, 0, 0);
+        border-radius: 30px; ;
+        }
+
+        .img-personagens {
+            width: 300px;
+            margin:30px;
+        }
+
+        div{
+            display: flex;
+            justify-content: center;
+            flex-direction: row;
+            gap: 50px;
+            
+        }
+
+    
+    footer{
+        padding: 20px;
+        height: 90px;
+        background-color: #010101;
+        color: white;
+        text-align: center;
+        font-size: 25px;
+    }
+
+    .humano{
+        background-color:  white;
+        border-radius: 5px;
+        height: 20px;
+        width: 100px;
+    }
+
+    .gui{
+        background-color:  white;
+        border-radius: 5px;
+        height: 20px;
+        width: 100px;
+    }
+
+    .cozina{
+        background-color:  white;
+        border-radius: 5px;
+        height: 35px;
+        width: 100px;
+    }
+
+    .mimi{
+        background-color:  white;
+        border-radius: 5px;
+        height: 20px;
+        width: 125px;
+    }
+
+    .tomate{
+        background-color:  white;
+        border-radius: 5px;
+        height: 35px;
+        width: 125px;
+    }
+
+  
